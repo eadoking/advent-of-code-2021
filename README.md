@@ -5,7 +5,7 @@ Contribution to [https://github.com/methodpark/Advent-of-Code](https://github.co
 
 ## Progress
 
-- Day 01 :feet:
+- Day 01 :white_check_mark:	:star: :star:
 - Day 02 :feet:
 - Day 03 :feet:
 - Day 04 :feet:
