@@ -2,14 +2,19 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
-        <AssemblyName>AdventOfCode.Helpers</AssemblyName>
-        <RootNamespace>AdventOfCode.Helpers</RootNamespace>
+        <AssemblyName>AdventOfCode.Day03</AssemblyName>
+        <RootNamespace>AdventOfCode.Day03</RootNamespace>
+        <GenerateProgramFile>false</GenerateProgramFile>
     </PropertyGroup>
 
     <ItemGroup>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
         <PackageReference Include="NUnit" Version="3.13.1" />
         <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\Helpers\Helpers.csproj" />
     </ItemGroup>
 
 </Project>
