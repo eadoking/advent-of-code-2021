@@ -11,7 +11,7 @@ Contribution to [https://github.com/methodpark/Advent-of-Code](https://github.co
 - Day 04 :white_check_mark:	:star: :star:
 - Day 05 :white_check_mark:	:star: :star:
 - Day 06 :white_check_mark:	:star: :star:
-- Day 07 :feet:
+- Day 07 :white_check_mark:	:star: :star:
 - Day 08 :feet:
 - Day 09 :feet:
 - Day 10 :feet:
